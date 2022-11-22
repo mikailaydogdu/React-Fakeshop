@@ -11,7 +11,7 @@ A React Js e-commerce website.
 
 - React
 - React Router
-- Content Api
+- Context Api
 - Bootsrap
 - Font-Awesome
 
