@@ -3,6 +3,11 @@
 
 A React Js e-commerce website.
 
+##
+Product list
+Product Detail
+Shopping basket(add, remove)
+
 ## Frameworks and Libraries
 
 1-React
@@ -12,7 +17,8 @@ A React Js e-commerce website.
 5-Font-Awesome
 
 ### How to run
-``` 
-npm install
-npm start
-```
+
+<pre>
+$ npm intall
+$ npm start
+</pre>
