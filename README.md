@@ -3,7 +3,6 @@
 
 A React Js e-commerce website.
 
-##
 - Product list
 - Product Detail
 - Shopping basket(add, remove)
