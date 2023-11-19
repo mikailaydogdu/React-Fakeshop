@@ -12,7 +12,7 @@ A React Js e-commerce website.
 - React
 - React Router
 - Context Api
-- Bootsrap
+- Bootstrap
 - Font-Awesome
 
 ### How to run
